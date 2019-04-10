@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Wonderwoman's Battle For The Universe
 
 You can use the [editor on GitHub](https://github.com/colorfulthunder57/wonder-woman-battle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
