@@ -1,28 +1,28 @@
 ## Welcome to Wonderwoman's Battle For The Universe
 
-###**The Goal**
+### The Goal
 The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For your high score to be recorded to must complete this task without getting points deducted.
 
-###**THE START**
+### THE START
 >To start the game press the space bar.
 
-###**PLAYING**
+### PLAYING
 
-###**CONTROLS**
+### CONTROLS
     
     >The player can only travel right or left.
     >To control the player use the left and right arrow keys.
     >To shoot press the space bar while playing.
     >The player has unlimited lasers.
     
-###**LIVES**
+### LIVES
     
     >At the start of the game the player has 3 lives(shown in the left hand corner in the form of hearts)
     >By getting shot with one enemy laser the player will loose a life.
     >If an enemy touches a player all lives will be taken away.
     >To get lives back collect the falling powerup. No points will be awarded for collecting the powerup, but all lives will be restored.
     
-###**POINTS**
+### POINTS
     
     >Two points will be deducted if an enemy laser hits the player.
     >Three points will be deducted if an enemy collides with the player.
@@ -30,10 +30,10 @@ The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For 
     
         
 
-###**END**
+### END
 
 >To restart the game press the space bar.
-###**WIN**
+### WIN
 
         >To win the player must clear the fleet including the ending mega mob.
         >Before the win screen can be shown your score must be recorded.
