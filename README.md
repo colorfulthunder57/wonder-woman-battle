@@ -7,7 +7,7 @@ The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For 
 >To start the game press the space bar.
 
 ###**PLAYING**
-    ####CONTROLS
+    ###CONTROLS
     
     >The player can only travel right or left.
     >To control the player use the left and right arrow keys.
@@ -29,7 +29,7 @@ The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For 
 
 ###**END**
 >To restart the game press the space bar.
-    ####WIN
+    ###WIN
         >To win the player must clear the fleet including the ending mega mob.
         >Before the win screen can be shown your score must be recorded.
         >To see your score enter your name and date.
