@@ -1,37 +1,43 @@
 ## Welcome to Wonderwoman's Battle For The Universe
 
-You can use the [editor on GitHub](https://github.com/colorfulthunder57/wonder-woman-battle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###**The Goal**
+The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For your high score to be recorded to must complete this task without getting points deducted.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###**THE START**
+>To start the game press the space bar.
 
-### Markdown
+###**PLAYING**
+    ####CONTROLS
+    
+    >The player can only travel right or left.
+    >To control the player use the left and right arrow keys.
+    >To shoot press the space bar while playing.
+    >The player has unlimited lasers.
+    ####LIVES
+    
+    >At the start of the game the player has 3 lives(shown in the left hand corner in the form of hearts)
+    >By getting shot with one enemy laser the player will loose a life.
+    >If an enemy touches a player all lives will be taken away.
+    >To get lives back collect the falling powerup. No points will be awarded for collecting the powerup, but all lives will be restored.
+    ####POINTS
+    
+    >Two points will be deducted if an enemy laser hits the player.
+    >Three points will be deducted if an enemy collides with the player.
+    >If a player kills an enemy they will be awarded 2 points.
+    
+        
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###**END**
+>To restart the game press the space bar.
+    ####WIN
+        >To win the player must clear the fleet including the ending mega mob.
+        >Before the win screen can be shown your score must be recorded.
+        >To see your score enter your name and date.
+        >To see high scores open high_score file in the space_war folder
+        
+    ####LOST
+        >If the player touches a mob the game immedietly ends.
+        >Your score will not be recorded in the high score registry if the player does not win.
+        >If the player is shot three times the game will end and the player will have lost.
+    
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colorfulthunder57/wonder-woman-battle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
