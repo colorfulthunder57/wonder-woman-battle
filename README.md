@@ -1,4 +1,4 @@
-## Welcome to Wonderwoman's Battle For The Universe
+# Welcome to Wonderwoman's Battle For The Universe
 
 ### The Goal
 The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For your high score to be recorded to must complete this task without getting points deducted.
@@ -40,7 +40,7 @@ The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For 
         >To see your score enter your name and date.
         >To see high scores open high_score file in the space_war folder
         
-###**LOST**
+### LOST
 
         >If the player touches a mob the game immedietly ends.
         >Your score will not be recorded in the high score registry if the player does not win.
