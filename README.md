@@ -39,7 +39,7 @@ The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For 
         >Before the win screen can be shown your score must be recorded.
         >To see your score enter your name and date.
         >To see high scores open high_score file in the space_war folder
-        
+
 ### LOST
 
         >If the player touches a mob the game immedietly ends.
