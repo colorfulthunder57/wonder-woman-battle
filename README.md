@@ -32,7 +32,8 @@ The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For 
 
 ### END
 
->To restart the game press the space bar.
+    >To restart the game press the space bar.
+
 ### WIN
 
         >To win the player must clear the fleet including the ending mega mob.
