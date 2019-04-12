@@ -47,7 +47,7 @@ The goal of Wonder Woman's Battle for The Universe is to kill all the mobs. For 
         >Your score will not be recorded in the high score registry if the player does not win.
         >If the player is shot three times the game will end and the player will have lost.
     
-###CREDITS
+### CREDITS
 pictures:
 https://kenney.nl/
 https://www.pinclipart.com
